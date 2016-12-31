@@ -1,0 +1,8 @@
+Must install python-dev
+    sudo apt-get install python-dev
+
+Must install setuptools
+
+
+
+sudo pip install netifaces

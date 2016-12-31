@@ -1,0 +1,17 @@
+sudo pip install netifaces
+
+sudo apt-get install python-pip python-dev build-essential
+export LC_ALL=C
+sudo pip install --upgrade pip
+
+138.197.26.183
+138.197.30.34
+138.197.8.95
+192.34.63.88
+
+cd PnpGlobalLink
+cd ControlDeamonListen
+
+pnp4pnp4
+
+n2d@ucsc
